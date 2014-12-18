@@ -4,4 +4,4 @@
 .DS_Store
 build/
 *.xcuserstate
-Pods/*
+Pods/
